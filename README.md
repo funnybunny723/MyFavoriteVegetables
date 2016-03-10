@@ -1,2 +1,8 @@
 # MyFavoriteVegetables
-These are teh veggies I like to eat
+These are the veggies I like to eat
+
+##Specific
+-Carrots
+-Onions
+-Lettuce
+-Cucumbers
